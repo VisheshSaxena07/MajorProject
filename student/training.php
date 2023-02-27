@@ -110,7 +110,7 @@
 
                     <div class="col-md-6 d-flex justify-content-center aling-items-center editor">
                         <div class="col-md-12">
-                            <textarea name="ans" id="" class="h-100 col-md-12">//Code here</textarea>
+                            <textarea name="ans" id="" class="h-100 col-md-12">//Code dhere</textarea>
                         </div>
                     </div>
                 
